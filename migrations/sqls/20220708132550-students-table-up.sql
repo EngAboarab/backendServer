@@ -1,0 +1,1 @@
+CREATE TABLE student (id SERIAL PRIMARY KEY,student_name VARCHAR(100),email VARCHAR(100),pass VARCHAR(256));

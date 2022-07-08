@@ -1,0 +1,1 @@
+CREATE TABLE leads (id SERIAL PRIMARY KEY,lead_name  VARCHAR(100),email VARCHAR(100));
